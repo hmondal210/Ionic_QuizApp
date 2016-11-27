@@ -1,0 +1,25 @@
+.question_text {
+    width: 100%; !important;
+    overflow: visible !important;
+    word-break: break-all !important;
+}
+.has-header {
+    top: 70px !important;
+}
+.home_padding {
+    padding: 40px !important;
+}
+.button {
+    font-size: 25px !important;
+    font-weight: bold !important;
+}
+.popup-body {
+    padding: 10px;
+    overflow: auto;
+    text-align: center !important;
+    font-size: 50px !important;
+}
+.card .item:first-child {
+    border-top: 0;
+    background-color: #f5f5f5 !important;
+}

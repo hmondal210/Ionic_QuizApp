@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "question": "1) Which is the oldest armoured regiment in the Indian Army?",  
+    "answers": [
+        {"ans": "a) 1 Horse"},  
+        {"ans": "b) 2 Lancers"}, 
+        {"ans": "c) 1st Armoured Regiment"}, 
+        {"ans": "d) President's Bodyguards"}
+    ], 
+    "correct_answer": "d) President's Bodyguards"
+  },
+  {
+    "id": 2,
+    "question": "2) Which one is name after a region?",  
+    "answers": [
+        {"ans": "a) Jat Regiment"},  
+        {"ans": "b) Maratha Light Infantry"}, 
+        {"ans": "c) Mahar Regiment"}, 
+        {"ans": "d) Punjab regiment"}
+    ],
+    "correct_answer": "d) Punjab regiment"
+  },
+  {
+    "id": 3,
+    "question": "3) Who was appointed the Chief of Army Staff of the Indian Army in June 2005?", 
+    "answers": [
+        {"ans": "a) Bhupendra Singh Thakur"},  
+        {"ans": "b) Mohinder Puri"}, 
+        {"ans": "c) Padam Pal Singh Bhandari"},
+        {"ans": "d) Joginder Jaswant Singh"}
+    ], 
+    "correct_answer": "d) Joginder Jaswant Singh"
+  },
+  {
+    "id": 4,
+    "question": "4) What is the nickname of the Vickers MBT operated by the Indian Armor in the 1970s and 1980s?",  
+    "answers": [
+        {"ans": "a) Ajeya"},  
+        {"ans": "b) Bheesma"}, 
+        {"ans": "c) Sharath"},    
+        {"ans": "d) Vijayanta"}    
+    ],
+    "correct_answer": "d) Vijayanta"
+  },
+  {
+    "id": 5,
+    "question": "5) Which of these countries has India never bought tanks or a license for production?", 
+    "answers": [
+        {"ans": "a) USSR/Russia"},  
+        {"ans": "b) UK"}, 
+        {"ans": "c) France"},
+        {"ans": "d) Germany"}
+    ],
+    "correct_answer": "d) Germany"
+  }
+]

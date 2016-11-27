@@ -1,0 +1,10 @@
+{
+    "jscodehints.detectedExclusions": [
+        "D:/Ionic Workspace/Trivia Quiz for Indian Army/gulpfile.js",
+        "D:/Ionic Workspace/Trivia Quiz for Indian Army/www/service-worker.js",
+        "D:/Ionic Workspace/Trivia Quiz for Indian Army/www/lib/ionic/js/ionic.min.js",
+        "D:/Ionic Workspace/Trivia Quiz for Indian Army/www/lib/ionic/js/ionic.js",
+        "D:/Ionic Workspace/Trivia Quiz for Indian Army/www/js/controller.js",
+        "D:/Ionic Workspace/Trivia Quiz for Indian Army/www/lib/ionic/js/ionic.bundle.min.js"
+    ]
+}

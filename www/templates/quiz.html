@@ -1,0 +1,25 @@
+<ion-view view-title="Trivia Quiz for Indian Army">
+    <div class="bar bar-subheader">
+      <h2 class="title">Score: {{score}}</h2>
+    </div>
+  <ion-content>
+    <div class="padding">
+      <div class="card">
+      <div class="item item-text-wrap">
+          <b>{{question}}</b>
+      </div>
+      <div class="item item-text-wrap">
+        <ion-list>
+          <ion-radio ng-model="choice" ng-value="i.ans" ng-repeat="i in answers" ng-click="selectAnswer(choice)">{{i.ans}}</ion-radio>
+        </ion-list>
+      </div>
+      <div class="item item-divider">
+         <button class="button button-block button-balanced" ng-disabled="!isSelect" ng-click="submitAnswer()">
+          {{submitBtn}}
+        </button>
+      </div>
+    </div>
+        
+    </div>
+  </ion-content>
+</ion-view>
